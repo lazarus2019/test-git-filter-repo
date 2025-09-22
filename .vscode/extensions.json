@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "stylelint.vscode-stylelint",
+    "yoavbls.pretty-ts-errors",
+    "dprint.dprint",
+    "stylelint.vscode-stylelint",
+    "oxc.oxc-vscode"
+  ],
+  "unwantedRecommendations": []
+}
